@@ -65,7 +65,6 @@ This project investigates the silent struggle of mental health among students. U
 
 3. **Download the dataset:**
    - [Kaggle Dataset Link](https://www.kaggle.com/datasets/shariful07/student-mental-health)  
-     *(Replace with actual dataset URL)*
 
 4. **Open the notebook:**
    - Launch Jupyter Notebook and open `notebook.ipynb`.
